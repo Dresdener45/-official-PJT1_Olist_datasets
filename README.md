@@ -1,1 +1,7 @@
-# -official-PJT1_Olist_datasets
+## Step1 - 프로젝트 정보
+### (1) 프로젝트 주제 : 브라질 이커머스 플랫폼
+
+
+
+
+
