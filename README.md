@@ -9,6 +9,10 @@
     5. SPIs(Selected Problem Investigations) : 주요분석
 
 ## Step2 - 프로젝트 결론
-
+- 데이터 분석을 통해 Reviews, Orders, Seller, Marketing 총 4가지의 측면에서 개선사항을 발견하고 해결방안을 제시하고자 했습니다.
+### (1) Reveiws : Olist의 유통, 물류 문제 개선을 위한 물류 전담 파트너사 및 자체 유통 허브 마련 필요
+### (2) Order : 플랫폼이 실제 Order Phase를 담을 수 있도록 내부 데이터의 직관성 강화
+### (3) Seller : 셀러 세분화를 통한 효과적인 우수 셀러 관리
+### (4) Marketing : 효율적인 셀러 유입을 위한 광고 효과 개선
 
 
